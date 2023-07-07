@@ -4,7 +4,7 @@
 ## Sobre el código
 
 Este buscador esta pensado para ser utilizado como un lanzador vinculado a una combinación de teclas.
-Se escribio utilizando Python 3.10, Selenium y PyQt5. así que Selenium y PyQt5 es necesario para poder ejecutar el código.
+Se escribio utilizando Python 3.10, Selenium y PyQt5. Así que Selenium y PyQt5 es necesario para poder ejecutar el código.
 
 Para poder instalar PyQt5 y Selenium ejecute:
 
@@ -27,7 +27,7 @@ Para acutualizar los drivers de Firefox visite: <https://github.com/mozilla/geck
 
 Para actualizar los driver de Chrome visite: <https://chromedriver.chromium.org/downloads>
 
-Una vez descargado el driver actualizado copie el contenido en las carpetas del driver correspondiente (el archivo anterior debe ser reemplazado).
+Una vez descargado el driver actualizado copie el contenido en los directorios del driver correspondiente dentro del directorio 'scr' (el driver anterior debe ser reemplazado).
 
 También Puede intentar actualizar la librería Selenium. Para lograr esto puede intentar usar el siguiente comando:
 
